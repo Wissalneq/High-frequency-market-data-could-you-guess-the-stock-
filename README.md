@@ -78,4 +78,4 @@ The loss function used is cross-entropy, which is standard for classification ta
 
 ## Acknowledgments
 
-Special thanks to Capital Fund Management (CFM) for organizing this challenge and providing the dataset.
+Special thanks to Capital Fund Management (CFM) for organizing this challenge and providing the dataset. The data can be found at [this link](https://challengedata.ens.fr/challenges/146).
